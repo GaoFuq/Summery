@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- <declare-styleable name="BaseTitleBarLayout">
+        <attr name="titleBar_backIcon" format="reference"/>
+        <attr name="titleBar_rightIcon" format="reference"/>
+
+        <attr name="titleBar_title" format="string|reference"/>
+        <attr name="titleBar_titleColor" format="color|reference"/>
+        <attr name="titleBar_titleSize" format="dimension|reference"/>
+        <attr name="titleBar_titleBold" format="boolean"/>
+        <attr name="titleBar_titleBackground" format="reference"/>
+
+        <attr name="titleBar_rightText" format="string|reference"/>
+        <attr name="titleBar_rightTextColor" format="color|reference"/>
+        <attr name="titleBar_rightTextSize" format="dimension|reference"/>
+        <attr name="titleBar_rightTextBold" format="boolean"/>
+        <attr name="titleBar_rightTextBackground" format="reference"/>
+
+    </declare-styleable>-->
+
+   <declare-styleable name="XxxView">
+      <attr name="xxx" format="dimension|reference"/>
+   </declare-styleable>
+</resources>

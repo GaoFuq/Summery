@@ -1,0 +1,3 @@
+rootProject.name = "Summery"
+include ':app'
+//include ':baseappmodule'

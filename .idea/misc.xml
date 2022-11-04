@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/bg_default_request_state_dialog.xml" value="0.1385" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/bg_r12_white.xml" value="0.1671875" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/common_toast_img_msg.xml" value="0.1335" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/compare.xml" value="0.1712962962962963" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/dot.xml" value="0.1203125" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/dot2.xml" value="0.1796875" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/nav_home_selector.xml" value="0.158" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/nav_my_selector.xml" value="0.158" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/nav_text_color_selector.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/drawable/xxxx.xml" value="0.2" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/activity_main2.xml" value="0.1125" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/activity_main3.xml" value="0.1125" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/activity_main_wave.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/activity_single_instance.xml" value="0.17916666666666667" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/bacttle_act.xml" value="0.21" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/bank_test.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/base_title_bar_layout.xml" value="0.159375" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/baservadapter_activity.xml" value="0.15" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/binding_test.xml" value="0.14895833333333333" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/bottom_dialog.xml" value="0.13802083333333334" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/chat.xml" value="0.1265625" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/common_toast_with_img.xml" value="0.13333333333333333" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/coor_test.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/ddd.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/default_request_state_dialog_layout.xml" value="0.33" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/design_bottom_sheet_dialog.xml" value="0.11145833333333334" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/draglayout.xml" value="0.15520833333333334" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/ff.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/fragment_home.xml" value="0.1358574610244989" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/fragment_my.xml" value="0.14427083333333332" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/fragment_test.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/fragment_test_act.xml" value="0.14583333333333334" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/interest_tab_item.xml" value="0.12604166666666666" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/interest_video_fragment.xml" value="0.12604166666666666" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/interest_video_item.xml" value="0.12604166666666666" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/item_battle.xml" value="0.1203125" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/item_image.xml" value="0.25" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/item_main.xml" value="0.33" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/item_main2.xml" value="0.25092707045735474" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/item_pic.xml" value="0.18" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/java_activity.xml" value="0.17447916666666666" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/job_cancel_act.xml" value="0.1078125" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/jump_test_fragment.xml" value="0.13489583333333333" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/merchandise_tip_pop.xml" value="1.0" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/refresh_activity.xml" value="0.103125" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/refresh_state_empty.xml" value="0.1265625" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/refresh_state_end_failed.xml" value="0.1265625" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/refresh_state_end_success.xml" value="0.1265625" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/refresh_state_error.xml" value="0.1265625" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/refresh_state_loading.xml" value="0.1265625" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/refresh_state_lose_net.xml" value="0.1265625" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/register.xml" value="0.15364583333333334" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/sector_menu.xml" value="0.23541666666666666" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/select_item.xml" value="0.159375" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/soft_input.xml" value="0.14375" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/sp_test_activity.xml" value="0.1" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/span_string_activity.xml" value="0.18" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/test_dialog.xml" value="0.25" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/view_fragment.xml" value="0.15402431962941518" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/xxx.xml" value="0.5785714285714286" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/layout/yaode.xml" value="0.12604166666666666" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14427083333333332" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/menu/main_nav_menu0.xml" value="0.14427083333333332" />
+        <entry key="..\:/android/testProjects/Summery/app/src/main/res/xml/file_paths.xml" value="0.159375" />
+        <entry key="..\:/android/testProjects/Summery/baseappmodule/src/main/res/layout/activity_main.xml" value="0.159375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Summery</string>
+    <string name="request_loading_state_default_text">加载中…</string>
+    <string name="request_complete_state_default_text">加载完成</string>
+    <string name="request_error_state_default_text">加载失败</string>
+    <string name="top_sheet_behavior" translatable="false">com.gfq.summery.dialog.topsheetdialog.TopSheetBehavior</string>
+<string name="hot">🔥</string>
+</resources>
